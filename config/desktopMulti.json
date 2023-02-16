@@ -1,0 +1,5 @@
+{
+  "extends": "./config/desktop.json",
+  "multi": true,
+  "slug": "userJourney"
+}
